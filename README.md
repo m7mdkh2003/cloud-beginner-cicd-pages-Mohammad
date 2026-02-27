@@ -1,7 +1,7 @@
 # Cloud CI/CD Beginner Project
 
 ## Student Name
-Mohammad Rawhi Kattab
+Mohammad Rawhi Kattab.
 
 ## Course
 Cloud Computing
