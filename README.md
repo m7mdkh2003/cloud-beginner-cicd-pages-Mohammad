@@ -15,4 +15,4 @@ and deploys the static website to GitHub Pages.
 Download the repository files and open index.html in your browser.
 
 ## GitHub Pages Link
-(Will be added after deployment)
+(https://m7mdkh2003.github.io/cloud-beginner-cicd-pages-Mohammad/)
